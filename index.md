@@ -9,7 +9,8 @@
 
 # Digital Health Insights:
 
-## What does the 2021 GP patient survey tell us about digital access
+## What can we learn about GP Patient Survey teach us about access to digital health services in 2021?
+
 
 {% include update.html %}
 
@@ -38,7 +39,10 @@ Remote appointments are now as common as in person appointments, bit more info..
   </a>
 </div>
 
-Introduction para
+Patients have seen a fundamental shift in how general practices deliver primary care services. As GPs adapt to coronavirus pandemic and national lockdowns, access to quality digital health services has proved more important now than ever.
+
+Redeveloped in 2021, the GP Patient Survey — a national survey of patients’ experiences of general practice — reflects the changes to primary care services due to the COVID-19 pandemic. Our analysis aims to shed light on the use of and barriers to accessing online GP services in England.
+
 
 ### Remote appointments are now as common as in person appointments
 
