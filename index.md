@@ -8,13 +8,14 @@
 </div>
 
 <td class="nhsuk-table__cell">
-          <strong class="nhsuk-tag" > 
-          <div style="font-size: x-large;">font-size: x-large;</div>
+          <strong class="nhsuk-tag">
   Digital Health Insights
 </strong>
 
-
 </td>
+
+
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
