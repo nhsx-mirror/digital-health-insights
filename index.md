@@ -46,9 +46,6 @@
 Looking through GP practises website to look for information or access services is getting easier for some groups, but harder for others</li>
     
   </div>
-</div>
-
-</div>
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
