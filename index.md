@@ -21,7 +21,7 @@
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-</div>
+
 <div class="nhsuk-card">
 <div class="nhsuk-card__content">
 <h3 class="nhsuk-card__heading">Key Findings</h3>
@@ -32,8 +32,6 @@
  - Patients aged 75 and over are least likely to use online GP services
 Looking through GP practises website to look for information or access services is getting easier for some groups, but harder for others
 
-</div>
-</div>
 
 <div class="nhsuk-care-card nhsuk-care-card--primary">
   <div class="nhsuk-care-card__heading-container">
