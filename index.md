@@ -27,11 +27,6 @@
 
 
 
-<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
-
-<div class="nhsuk-card">
-<div class="nhsuk-card__content">
-</div>
 
 <div class="nhsuk-care-card nhsuk-care-card--primary">
   <div class="nhsuk-care-card__heading-container">
