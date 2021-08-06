@@ -9,13 +9,11 @@
 
 <td class="nhsuk-table__cell">
           <strong class="nhsuk-tag">
-          <strong class="nhsuk-tag" > 
-          <div style="font-size: x-large;">font-size: x-large;</div>
   Digital Health Insights
 </strong>
 
-
 </td>
+
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
@@ -27,11 +25,21 @@
 
 
 
-</div>
+<hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
+
+<div class="nhsuk-card__content">
+<h3 class="nhsuk-card__heading">Key Findings</h3>
+<p class="nhsuk-card__description">
+ - Remote appointments are now as common as face-to-face appointments. While most patients are comfortable with remote appointments, many still prefer face-to-face appointment consultations in the future.
+ - Over 44% of patients have used an GP online service in the last 12 months, while 56% haven’t used any. 
+ - Patients will long term health conditions are more likely than average to use online GP services
+ - Patients aged 75 and over are least likely to use online GP services
+Looking through GP practises website to look for information or access services is getting easier for some groups, but harder for others
+
 
 <div class="nhsuk-care-card nhsuk-care-card--primary">
   <div class="nhsuk-care-card__heading-container">
-    <h3 class="nhsuk-care-card__heading"><span role="text"><span class="nhsuk-u-visually-hidden">Non-urgent advice: </span>Key findings:</span></h3>
+    <h3 class="nhsuk-care-card__heading"><span role="text"><span class="nhsuk-u-visually-hidden">Non-urgent advice: </span>Speak to a GP if:</span></h3>
     <span class="nhsuk-care-card__arrow" aria-hidden="true"></span>
   </div>
   <div class="nhsuk-care-card__content">
@@ -40,10 +48,10 @@
       <li> Remote appointments are now as common as face-to-face appointments. While most patients are comfortable with remote appointments, many still prefer face-to-face appointment consultations in the future. </li>
       <li>Over 44% of patients have used an GP online service in the last 12 months, while 56% haven’t used any. </li>
       <li>Patients will long term health conditions are more likely than average to use online GP services</li>
-      <li>you're concerned about your child or they get worse</li>
+      <li> Patients aged 75 and over are least likely to use online GP services
+Looking through GP practises website to look for information or access services is getting easier for some groups, but harder for others </li>
     </ul>
-    <p>Patients aged 75 and over are least likely to use online GP services
-Looking through GP practises website to look for information or access services is getting easier for some groups, but harder for others</p>
+  
     
   </div>
 </div>
