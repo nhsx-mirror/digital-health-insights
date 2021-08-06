@@ -10,7 +10,7 @@
 <td class="nhsuk-table__cell">
           <strong class="nhsuk-tag">
   <h1> Digital Health Insights <h1>
-<div class="g">Digital Health insights</div>
+
 
 </strong>
 
