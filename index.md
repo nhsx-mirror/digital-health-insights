@@ -7,14 +7,13 @@
   <p><b>Pre-publication:</b> This project is currently in development.  For more information contact: mary.amanuel@nhsx.nhs.uk</p>
 </div>
 
-</div>
 <td class="nhsuk-table__cell">
-          <strong class="nhsuk-tag nhsuk-tag--blue">
-  <h1> Digital Health Insight <h1>
+          <strong class="nhsuk-tag">
+  Digital Health Insights
 </strong>
 
-   </td>
-</div>
+</td>
+
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
@@ -28,7 +27,9 @@
 
 <hr class="nhsuk-u-margin-top-0 nhsuk-u-margin-bottom-6">
 
-
+<div class="nhsuk-card">
+<div class="nhsuk-card__content">
+</div>
 
 <div class="nhsuk-care-card nhsuk-care-card--primary">
   <div class="nhsuk-care-card__heading-container">
