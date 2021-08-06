@@ -27,6 +27,7 @@
 
 
 
+</div>
 
 <div class="nhsuk-care-card nhsuk-care-card--primary">
   <div class="nhsuk-care-card__heading-container">
